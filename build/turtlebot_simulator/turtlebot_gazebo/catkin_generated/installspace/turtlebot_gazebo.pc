@@ -1,0 +1,8 @@
+prefix=/home/robond/Desktop/workspace/ekf_lab/install
+
+Name: turtlebot_gazebo
+Description: Description of turtlebot_gazebo
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/robond/Desktop/workspace/ekf_lab/install/lib 
+Requires: 

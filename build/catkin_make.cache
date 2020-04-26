@@ -1,0 +1,2 @@
+turtlebot_simulator/turtlebot_gazebo:turtlebot_simulator/turtlebot_simulator:turtlebot_simulator/turtlebot_stage:turtlebot_simulator/turtlebot_stdr
+-DCATKIN_DEVEL_PREFIX=/home/robond/Desktop/workspace/ekf_lab/devel -DCMAKE_INSTALL_PREFIX=/home/robond/Desktop/workspace/ekf_lab/install -G Unix Makefiles
